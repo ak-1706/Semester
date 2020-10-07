@@ -59,9 +59,9 @@ def webhook():
           ],
           "image": {
             "alt": "SITS logo",
-            "height": 0,
+            "height": 10,
             "url": "https://images.shiksha.com/mediadata/images/1571057918phpCdqLqc.png",
-            "width": 0
+            "width": 15
           },
           "rows": [
             {
