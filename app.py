@@ -58,9 +58,9 @@ def webhook():
             
           ],
           "image": {
-            "alt": "Google Assistant logo",
+            "alt": "SITS logo",
             "height": 0,
-            "url": "https://developers.google.com/assistant/assistant_96.png",
+            "url": "https://images.shiksha.com/mediadata/images/1571057918phpCdqLqc.png",
             "width": 0
           },
           "rows": [
