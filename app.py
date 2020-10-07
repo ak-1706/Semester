@@ -9,7 +9,7 @@ app = Flask(__name__)
 # default route
 @app.route('/',methods=['POST','GET'])
 def index():
-    return 'This is the home page nothing to see here....'
+    return 'Hello,This is the home page nothing to see here....'
 
 
 
