@@ -6,7 +6,8 @@ app=Flask(__name__)
 @app.route("/")
 def welcome():
     info={
-        "test":"test sucess"
+        "test":"test sucess",
+        "attendance":"/attendance/roll_no/div"
         }
     return jsonify(info)
 
