@@ -115,7 +115,7 @@ def webhook():
               ]
             }
           ],
-          "subtitle": str(data["Theory Attendance %"].values[0]+"%"),
+          "subtitle": str(data["Theory Attendance %"].values[0]),
           "title": str(data["Name "].values[0])
         }
       },
